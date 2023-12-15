@@ -2,8 +2,6 @@
 
 This Website developed by using HTML & CSS
 
-Website is LIVE on -> [https://conference-symposium.netlify.app/](https://conference-symposium.netlify.app/)
-
 ## Project Content Images
 
 ### 1. Home Page
