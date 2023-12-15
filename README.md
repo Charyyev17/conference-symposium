@@ -1,6 +1,6 @@
 # Conference - Symposium
 
-This Website developed by using HTML & CSS
+This Website developed by using HTML, CSS & Javascript
 
 ## Project Content Images
 
